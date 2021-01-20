@@ -8,7 +8,7 @@
 [//]: # (END OF BADGES SECTION)
 
 # Welcome To My First Blog
-https://undressm.github.io/My-Data-Science-Blog
+
 > An easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
 
 ![](images/diagram.png)
